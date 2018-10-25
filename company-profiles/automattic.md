@@ -8,7 +8,7 @@ We are the people behind WordPress.com, which serves more than 15.8 billion page
 
 ## Company size
 
-Over 750+ [Automatticians](https://automattic.com/about/).
+Over 800 [Automatticians](https://automattic.com/about/).
 
 ## Remote status
 
